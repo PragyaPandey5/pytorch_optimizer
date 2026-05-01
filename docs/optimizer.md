@@ -252,6 +252,10 @@
     :docstring:
     :members:
 
+::: pytorch_optimizer.FlashAdamW
+    :docstring:
+    :members:
+
 ::: pytorch_optimizer.FOCUS
     :docstring:
     :members:
