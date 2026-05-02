@@ -348,6 +348,10 @@
     :docstring:
     :members:
 
+::: pytorch_optimizer.LoRARite
+    :docstring:
+    :members:
+
 ::: pytorch_optimizer.MADGRAD
     :docstring:
     :members:

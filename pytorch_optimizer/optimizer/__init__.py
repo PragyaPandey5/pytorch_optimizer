@@ -69,6 +69,7 @@ from pytorch_optimizer.optimizer.lars import LARS
 from pytorch_optimizer.optimizer.lion import Lion
 from pytorch_optimizer.optimizer.lomo import LOMO, AdaLOMO
 from pytorch_optimizer.optimizer.lookahead import Lookahead
+from pytorch_optimizer.optimizer.lora_rite import LoRARite
 from pytorch_optimizer.optimizer.madgrad import MADGRAD
 from pytorch_optimizer.optimizer.mars import MARS
 from pytorch_optimizer.optimizer.msvag import MSVAG
@@ -195,6 +196,7 @@ OPTIMIZER_LIST: List[OptimizerType] = [
     Kron,
     LARS,
     LOMO,
+    LoRARite,
     LaProp,
     Lamb,
     Lion,
